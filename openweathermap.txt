@@ -1,0 +1,9 @@
+#Weather API
+###The open source project that I chose to look into is called 'OpenWeatherMap'. 
+###This project offers a Weather API.
+=============================
+##Development
+###The company has a group of developers and it's unclear if they supply all
+###the code used for their weather dissemination.  You can download code
+###from their **Widgets Constructor** site.  Questions and to report a bug
+###can be done through this website: https://openweathermap.desk.com/customer/portal/questions/new. 
